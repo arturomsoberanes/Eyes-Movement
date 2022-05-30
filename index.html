@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta name ="description" content="Animation that will chase your finger or mouse like a horror painting">
-    <link rel="stylesheet" href="./css/style.css" media="all">
+    <link rel="stylesheet" href="./css/styles.css" media="all">
     <link rel="stylesheet" href="./css/eyes.css" media="all">
     <title>Eyes Movement</title>
   </head>
@@ -13,9 +13,20 @@
       <span>Eyes</span>
       <span>Movement</span>
     </header>
+    <section class="pokemon-choose">
+      <div class="instructions">
+        Choose a Pokemon!!
+      </div>
+      <div class="pokeball">
+        <img onclick="changeCharacter('pikachu')" src="./img/Pokeball_Pikachu.svg" alt="Pokeball Pikachu">
+        <img onclick="changeCharacter('charmander')" src="./img/Pokeball_Charmander.svg" alt="Pokeball Charmander">
+        <img onclick="changeCharacter('squirtle')" src="./img/Pokeball_Squirtle.svg" alt="Pokeball Squirtle">
+        <img onclick="changeCharacter('bulbasaur')" src="./img/Pokeball_Bulbasaur.svg" alt="Pokeball Bulbasaur">
+      </div>
+    </section>
     <section class="character-container">
       <img id="character" src="./img/Pikachu.svg" alt="">
-      <div class="eyes">
+      <div id="eyes" class="eyes">
         <div class="eye">
           <div class="ball"></div>
         </div>
@@ -24,6 +35,15 @@
         </div>
       </div>
     </section>
+    <footer class="footer">
+      <section class="copy">
+        Copyright &copy 2022 - MITXPRO
+      </section>
+      <section class="author">
+        Made with <img src="./img/heart.png" alt="Love"> for <a href="https://github.com/arturomsoberanes" target="_blank">Arturo Soberanes</a>
+      </section>
+    </footer>
     <script src="./js/eyes-movement.js"></script>
+    <script src="./js/character.js"></script>
   </body>
 </html>

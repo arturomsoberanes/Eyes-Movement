@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="500" cy="500" r="490" fill="white" stroke="black" stroke-width="20"/>
+<path d="M490.5 15L591.5 24L684 53.5L770 96.5L844.5 157.5L904.5 231.5L949 319.5L975 411.5L982.5 507H18.5L23 411.5L52 319.5L97.5 231.5L159.5 157.5L228 96.5L311 53.5L398.5 24L490.5 15Z" fill="#FF3F3F"/>
+<line y1="517" x2="1000" y2="517" stroke="black" stroke-width="20"/>
+<circle cx="500.5" cy="526.5" r="149.5" fill="white" stroke="black" stroke-width="20"/>
+<circle cx="588" cy="186" r="43.5" fill="#83F8FF" stroke="black" stroke-width="7"/>
+<circle cx="602" cy="168" r="18" fill="#CBFCFF"/>
+<circle cx="602" cy="161" r="7" fill="white"/>
+<circle cx="440" cy="139" r="70" fill="#83F8FF" stroke="black" stroke-width="10"/>
+<circle cx="462.5" cy="110.5" r="28.5" fill="#CBFCFF"/>
+<circle cx="462.5" cy="99.5" r="11.5" fill="white"/>
+<circle cx="487" cy="280" r="44" fill="#83F8FF" stroke="black" stroke-width="6"/>
+<circle cx="501" cy="262" r="18" fill="#CBFCFF"/>
+<circle cx="501" cy="255" r="7" fill="white"/>
+</svg>
