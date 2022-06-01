@@ -2,7 +2,7 @@
   <img src="screenshot.png"  width="300" height="300">   
 </div>
 
-# <h1 align="center">Eyes Movemente</h1>
+# <h1 align="center">Eyes Movement</h1>
 
 <p align="center">
   <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
